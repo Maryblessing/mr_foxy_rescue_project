@@ -4,9 +4,8 @@
 - has 47 versions of the same file
 
 # Solution 
-- learn how Git and GitHub work
-
-**Project Description**
+1. learn how Git and _GitHub_ work
+2. 
 
 ## Collaborators ##
 
