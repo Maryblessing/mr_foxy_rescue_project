@@ -23,6 +23,7 @@
 |Foxy | lead researcher | surviving file chaos|
 | Prof Lunga | Mentor | always have a repo for everything|
 | Zainab | research assistant | surviving pressure |
+| Ariel | Researcher | working with a lot of tabs open |
 
 ### Status ###
 
